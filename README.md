@@ -1,2 +1,2 @@
-# react-native-apps-on-the-way
-AI &amp; Web3 Apps (From 2026...)
+# react-native-dapps-on-the-way
+
